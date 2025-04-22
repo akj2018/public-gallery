@@ -1,0 +1,319 @@
+[
+  {
+    "id": 1,
+    "thumbnailUrl": "https://example.com/thumbnails/image1.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31295906/pexels-photo-31295906/free-photo-of-chic-minimalist-flat-lay-with-beauty-essentials.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1800&dpr=4",
+    "likes": 625,
+    "author": "grace",
+    "uploadedAt": "2025-04-02T00:13:29Z",
+    "tags": ["animals", "sports", "nature"],
+    "prompt": "Night sky filled with stars and the Milky Way.\nBright city lights reflecting off the wet streets after rain.\nSnow gently falling on a quiet countryside.\nBright city lights reflecting off the wet streets after rain.\nBusy street market with vibrant colors and lively vendors.\nA motorbike rally on a winding mountain road.\nA playful puppy chasing butterflies in a garden.\nA skateboarder performing tricks in an urban park.\nPortrait of an elderly woman with stories in her eyes.\nA jazz band performing in a dimly-lit club.\nModern architectural marvels with sharp angles.\nNight sky filled with stars and the Milky Way.\nBusy street market with vibrant colors and lively vendors.\nA futuristic city skyline at dusk.\nDrone view of waves crashing against cliffs.\nPeople gathered at a beach bonfire during sunset.\nDrone view of waves crashing against cliffs.\nAerial shot of tulip fields in full bloom.\nPortrait of an elderly woman with stories in her eyes.\nTraditional dancers performing at a cultural festival.\nCinematic shot of a lone car driving through the desert.\nClose-up of dewdrops on leaves early in the morning.\nClose-up of dewdrops on leaves early in the morning.\nA chef preparing a gourmet meal in a professional kitchen.\nCinematic shot of a lone car driving through the desert.\nA close-up of hands crafting handmade jewelry."
+  },
+  {
+    "id": 2,
+    "thumbnailUrl": "https://example.com/thumbnails/image2.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2024/12/24/10/04/kitchen-9288111_1280.jpg",
+    "likes": 17,
+    "prompt": "A chef preparing a gourmet meal in a professional kitchen.\nDrone view of waves crashing against cliffs.\nAncient ruins captured under the moonlight.\nA child playing with a dog in a sunny garden.\nNight sky filled with stars and the Milky Way.\nSnow gently falling on a quiet countryside.\nA playful puppy chasing butterflies in a garden.\nBallet dancer practicing alone in a grand hall.\nPortrait of an elderly woman with stories in her eyes.\nPeople gathered at a beach bonfire during sunset.\nSurfers riding massive waves during a competition.\nA futuristic city skyline at dusk.\nSurfers riding massive waves during a competition.\nBallet dancer practicing alone in a grand hall.\nClose-up of dewdrops on leaves early in the morning.\nNight sky filled with stars and the Milky Way.\nA skateboarder performing tricks in an urban park.\nA painter working on a large canvas in a studio.\nTime-lapse of blooming flowers in spring.\nBright city lights reflecting off the wet streets after rain.\nA close-up of hands crafting handmade jewelry.\nA stunning landscape with mountains in the background.\nNight sky filled with stars and the Milky Way.\nModern architectural marvels with sharp angles.\nTraditional dancers performing at a cultural festival.\nPortrait of an elderly woman with stories in her eyes.\nSunrise over a serene lake with mist rolling in.",
+    "author": "charlie",
+    "uploadedAt": "2025-04-02T09:26:54Z",
+    "tags": ["architecture", "fashion"]
+  },
+  {
+    "id": 3,
+    "thumbnailUrl": "https://example.com/thumbnails/video3.jpg",
+    "mediaUrl": "https://example.com/media/video3.mp4",
+    "durationSec": 274,
+    "likes": 214,
+    "author": "charlie",
+    "uploadedAt": "2025-04-20T13:54:31Z",
+    "tags": [
+      "music",
+      "nature",
+      "travel",
+      "technology",
+      "animals",
+      "architecture"
+    ],
+    "prompt": "Sunrise over a serene lake with mist rolling in.\nBusy street market with vibrant colors and lively vendors.\nSnow gently falling on a quiet countryside.\nA jazz band performing in a dimly-lit club.\nBright city lights reflecting off the wet streets after rain.\nAncient ruins captured under the moonlight.\nA stunning landscape with mountains in the background.\nTime-lapse of blooming flowers in spring.\nTraditional dancers performing at a cultural festival.\nBusy street market with vibrant colors and lively vendors.\nBright city lights reflecting off the wet streets after rain.\nA painter working on a large canvas in a studio.\nA jazz band performing in a dimly-lit club.\nTraditional dancers performing at a cultural festival.\nSurfers riding massive waves during a competition.\nBallet dancer practicing alone in a grand hall.\nModern architectural marvels with sharp angles.\nTraditional dancers performing at a cultural festival.\nA stunning landscape with mountains in the background.\nA chef preparing a gourmet meal in a professional kitchen.\nA playful puppy chasing butterflies in a garden.\nBallet dancer practicing alone in a grand hall.\nCinematic shot of a lone car driving through the desert.\nA jazz band performing in a dimly-lit club.\nNight sky filled with stars and the Milky Way.\nA skateboarder performing tricks in an urban park.\nA slow-motion shot of a hummingbird hovering near a flower.\nClose-up of dewdrops on leaves early in the morning.\nBallet dancer practicing alone in a grand hall."
+  },
+  {
+    "id": 4,
+    "thumbnailUrl": "https://example.com/thumbnails/image4.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2023/09/04/23/58/woman-8233937_960_720.jpg",
+    "likes": 723,
+    "prompt": "Drone view of waves crashing against cliffs.\nAncient ruins captured under the moonlight.\nSnow gently falling on a quiet countryside.\nA playful puppy chasing butterflies in a garden.\nA close-up of hands crafting handmade jewelry.\nA chef preparing a gourmet meal in a professional kitchen.\nAncient ruins captured under the moonlight.\nCinematic shot of a lone car driving through the desert.\nBusy street market with vibrant colors and lively vendors.\nA chef preparing a gourmet meal in a professional kitchen.\nA painter working on a large canvas in a studio.",
+    "author": "frank",
+    "uploadedAt": "2025-04-07T12:13:54Z",
+    "tags": ["food", "technology"]
+  },
+  {
+    "id": 5,
+    "thumbnailUrl": "https://example.com/thumbnails/image5.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2025/04/08/15/03/fruhling-9521725_640.jpg",
+    "likes": 200,
+    "prompt": "A chef preparing a gourmet meal in a professional kitchen.\nNight sky filled with stars and the Milky Way.\nA futuristic city skyline at dusk.\nSurfers riding massive waves during a competition.\nPeople gathered at a beach bonfire during sunset.\nA painter working on a large canvas in a studio.\nClose-up of dewdrops on leaves early in the morning.\nAncient ruins captured under the moonlight.",
+    "author": "alice",
+    "uploadedAt": "2025-04-11T05:56:20Z",
+    "tags": ["animals", "travel", "people"]
+  },
+  {
+    "id": 6,
+    "thumbnailUrl": "https://example.com/thumbnails/video6.jpg",
+    "mediaUrl": "https://example.com/media/video6.mp4",
+    "durationSec": 112,
+    "likes": 381,
+    "prompt": "Aerial shot of tulip fields in full bloom.\nBusy street market with vibrant colors and lively vendors.\nTime-lapse of blooming flowers in spring.\nClose-up of dewdrops on leaves early in the morning.\nWildlife in action \u2013 a lioness with her cubs.\nBusy street market with vibrant colors and lively vendors.\nTime-lapse of blooming flowers in spring.\nClose-up of dewdrops on leaves early in the morning.\nPortrait of an elderly woman with stories in her eyes.\nA motorbike rally on a winding mountain road.\nAncient ruins captured under the moonlight.\nBright city lights reflecting off the wet streets after rain.\nTime-lapse of blooming flowers in spring.\nA futuristic city skyline at dusk.\nA chef preparing a gourmet meal in a professional kitchen.\nSurfers riding massive waves during a competition.\nTime-lapse of blooming flowers in spring.\nAncient ruins captured under the moonlight.\nA slow-motion shot of a hummingbird hovering near a flower.\nBusy street market with vibrant colors and lively vendors.\nA motorbike rally on a winding mountain road.\nBusy street market with vibrant colors and lively vendors.\nA painter working on a large canvas in a studio.\nA stunning landscape with mountains in the background.\nDrone view of waves crashing against cliffs.\nAncient ruins captured under the moonlight.\nAncient ruins captured under the moonlight.\nA painter working on a large canvas in a studio.\nCinematic shot of a lone car driving through the desert.\nA cozy cabin in the woods during autumn.",
+    "author": "judy",
+    "uploadedAt": "2025-04-15T20:15:33Z",
+    "tags": ["people", "sports", "music", "nature", "animals"]
+  },
+  {
+    "id": 7,
+    "thumbnailUrl": "https://example.com/thumbnails/image7.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2025/04/15/08/11/man-9534903_640.jpg",
+    "likes": 832,
+    "prompt": "Ancient ruins captured under the moonlight.\nBright city lights reflecting off the wet streets after rain.\nA child playing with a dog in a sunny garden.\nDrone view of waves crashing against cliffs.\nAerial shot of tulip fields in full bloom.\nA child playing with a dog in a sunny garden.\nTraditional dancers performing at a cultural festival.\nSnow gently falling on a quiet countryside.\nNight sky filled with stars and the Milky Way.\nA playful puppy chasing butterflies in a garden.\nTraditional dancers performing at a cultural festival.\nTime-lapse of blooming flowers in spring.\nA cozy cabin in the woods during autumn.\nDrone view of waves crashing against cliffs.\nSunrise over a serene lake with mist rolling in.\nSnow gently falling on a quiet countryside.\nNight sky filled with stars and the Milky Way.\nA painter working on a large canvas in a studio.\nA chef preparing a gourmet meal in a professional kitchen.\nA skateboarder performing tricks in an urban park.\nA close-up of hands crafting handmade jewelry.\nNight sky filled with stars and the Milky Way.\nWildlife in action \u2013 a lioness with her cubs.\nModern architectural marvels with sharp angles.\nWildlife in action \u2013 a lioness with her cubs.\nPortrait of an elderly woman with stories in her eyes.\nA child playing with a dog in a sunny garden.",
+    "author": "dave",
+    "uploadedAt": "2025-04-08T06:31:59Z",
+    "tags": ["travel", "sports", "art"]
+  },
+  {
+    "id": 8,
+    "thumbnailUrl": "https://example.com/thumbnails/image8.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2024/11/30/15/55/eiffel-tower-9235220_640.jpg",
+    "likes": 388,
+    "author": "judy",
+    "uploadedAt": "2025-04-20T20:20:48Z",
+    "tags": ["technology", "animals"],
+    "prompt": "A painter working on a large canvas in a studio.\nA futuristic city skyline at dusk.\nSurfers riding massive waves during a competition.\nSurfers riding massive waves during a competition.\nPeople gathered at a beach bonfire during sunset.\nA skateboarder performing tricks in an urban park.\nBallet dancer practicing alone in a grand hall.\nCinematic shot of a lone car driving through the desert.\nSunrise over a serene lake with mist rolling in.\nSunrise over a serene lake with mist rolling in.\nA cozy cabin in the woods during autumn.\nWildlife in action \u2013 a lioness with her cubs.\nA painter working on a large canvas in a studio.\nModern architectural marvels with sharp angles.\nA cozy cabin in the woods during autumn.\nNight sky filled with stars and the Milky Way.\nA playful puppy chasing butterflies in a garden.\nBusy street market with vibrant colors and lively vendors.\nPeople gathered at a beach bonfire during sunset.\nNight sky filled with stars and the Milky Way.\nClose-up of dewdrops on leaves early in the morning.\nA motorbike rally on a winding mountain road.\nClose-up of dewdrops on leaves early in the morning.\nPeople gathered at a beach bonfire during sunset.\nPeople gathered at a beach bonfire during sunset."
+  },
+  {
+    "id": 9,
+    "thumbnailUrl": "https://example.com/thumbnails/video9.jpg",
+    "mediaUrl": "https://example.com/media/video9.mp4",
+    "durationSec": 270,
+    "likes": 563,
+    "author": "charlie",
+    "uploadedAt": "2025-04-08T07:55:05Z",
+    "tags": ["food", "people", "animals"],
+    "prompt": "Drone view of waves crashing against cliffs.\nSunrise over a serene lake with mist rolling in.\nSurfers riding massive waves during a competition.\nA jazz band performing in a dimly-lit club.\nPeople gathered at a beach bonfire during sunset.\nA slow-motion shot of a hummingbird hovering near a flower.\nAncient ruins captured under the moonlight.\nA slow-motion shot of a hummingbird hovering near a flower.\nA playful puppy chasing butterflies in a garden.\nNight sky filled with stars and the Milky Way.\nAncient ruins captured under the moonlight.\nA stunning landscape with mountains in the background.\nClose-up of dewdrops on leaves early in the morning.\nA skateboarder performing tricks in an urban park.\nBusy street market with vibrant colors and lively vendors."
+  },
+  {
+    "id": 10,
+    "thumbnailUrl": "https://example.com/thumbnails/image10.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2025/04/03/04/49/winter-9510493_640.jpg",
+    "likes": 600,
+    "prompt": "Surfers riding massive waves during a competition.\nAncient ruins captured under the moonlight.\nA skateboarder performing tricks in an urban park.\nBusy street market with vibrant colors and lively vendors.\nA painter working on a large canvas in a studio.\nTraditional dancers performing at a cultural festival.\nA stunning landscape with mountains in the background.\nWildlife in action \u2013 a lioness with her cubs.\nNight sky filled with stars and the Milky Way.\nA slow-motion shot of a hummingbird hovering near a flower.\nA painter working on a large canvas in a studio.\nClose-up of dewdrops on leaves early in the morning.\nAncient ruins captured under the moonlight.\nAncient ruins captured under the moonlight.",
+    "author": "ivan",
+    "uploadedAt": "2025-04-02T10:30:32Z",
+    "tags": ["people", "nature", "animals", "technology", "sports"]
+  },
+  {
+    "id": 11,
+    "thumbnailUrl": "https://example.com/thumbnails/image11.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2024/10/16/09/14/alps-9124288_640.jpg",
+    "likes": 394,
+    "prompt": "Bright city lights reflecting off the wet streets after rain.\nNight sky filled with stars and the Milky Way.\nModern architectural marvels with sharp angles.\nA futuristic city skyline at dusk.\nA jazz band performing in a dimly-lit club.\nPortrait of an elderly woman with stories in her eyes.\nA painter working on a large canvas in a studio.",
+    "author": "eve",
+    "uploadedAt": "2025-04-03T23:28:04Z",
+    "tags": ["technology", "city", "sports", "music", "architecture", "art"]
+  },
+  {
+    "id": 12,
+    "thumbnailUrl": "https://example.com/thumbnails/video12.jpg",
+    "mediaUrl": "https://example.com/media/video12.mp4",
+    "durationSec": 16,
+    "likes": 664,
+    "prompt": "A close-up of hands crafting handmade jewelry.\nBright city lights reflecting off the wet streets after rain.\nWildlife in action \u2013 a lioness with her cubs.\nA futuristic city skyline at dusk.\nA stunning landscape with mountains in the background.\nA jazz band performing in a dimly-lit club.\nNight sky filled with stars and the Milky Way.\nWildlife in action \u2013 a lioness with her cubs.\nSurfers riding massive waves during a competition.\nA stunning landscape with mountains in the background.\nA playful puppy chasing butterflies in a garden.\nA playful puppy chasing butterflies in a garden.\nTime-lapse of blooming flowers in spring.\nModern architectural marvels with sharp angles.\nModern architectural marvels with sharp angles.\nPeople gathered at a beach bonfire during sunset.\nCinematic shot of a lone car driving through the desert.\nA close-up of hands crafting handmade jewelry.\nA futuristic city skyline at dusk.\nA motorbike rally on a winding mountain road.\nTraditional dancers performing at a cultural festival.\nBright city lights reflecting off the wet streets after rain.\nSunrise over a serene lake with mist rolling in.\nAerial shot of tulip fields in full bloom.\nDrone view of waves crashing against cliffs.",
+    "author": "charlie",
+    "uploadedAt": "2025-04-11T05:25:33Z",
+    "tags": ["animals", "music", "city", "people", "sports", "fashion"]
+  },
+  {
+    "id": 13,
+    "thumbnailUrl": "https://example.com/thumbnails/image13.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2025/04/05/18/12/bridge-9515680_640.jpg",
+    "likes": 653,
+    "author": "grace",
+    "uploadedAt": "2025-04-02T15:31:07Z",
+    "tags": ["art", "food"],
+    "prompt": "A motorbike rally on a winding mountain road.\nA jazz band performing in a dimly-lit club.\nA jazz band performing in a dimly-lit club.\nWildlife in action \u2013 a lioness with her cubs.\nA slow-motion shot of a hummingbird hovering near a flower.\nAerial shot of tulip fields in full bloom.\nA close-up of hands crafting handmade jewelry.\nDrone view of waves crashing against cliffs.\nDrone view of waves crashing against cliffs.\nA futuristic city skyline at dusk.\nBallet dancer practicing alone in a grand hall.\nBusy street market with vibrant colors and lively vendors.\nA painter working on a large canvas in a studio.\nA child playing with a dog in a sunny garden.\nA stunning landscape with mountains in the background."
+  },
+  {
+    "id": 14,
+    "thumbnailUrl": "https://example.com/thumbnails/image14.jpg",
+    "mediaUrl": "https://cdn.pixabay.com/photo/2025/02/25/14/40/horse-9430636_640.jpg",
+    "likes": 832,
+    "prompt": "Cinematic shot of a lone car driving through the desert.\nClose-up of dewdrops on leaves early in the morning.\nAncient ruins captured under the moonlight.\nSnow gently falling on a quiet countryside.\nTime-lapse of blooming flowers in spring.\nA painter working on a large canvas in a studio.\nA motorbike rally on a winding mountain road.\nAerial shot of tulip fields in full bloom.",
+    "author": "ivan",
+    "uploadedAt": "2025-04-04T02:30:21Z",
+    "tags": ["fashion", "food", "nature"]
+  },
+  {
+    "id": 15,
+    "thumbnailUrl": "https://example.com/thumbnails/video15.jpg",
+    "mediaUrl": "https://example.com/media/video15.mp4",
+    "durationSec": 205,
+    "likes": 234,
+    "prompt": "Traditional dancers performing at a cultural festival.\nBusy street market with vibrant colors and lively vendors.\nDrone view of waves crashing against cliffs.\nClose-up of dewdrops on leaves early in the morning.\nModern architectural marvels with sharp angles.\nA child playing with a dog in a sunny garden.\nModern architectural marvels with sharp angles.\nTraditional dancers performing at a cultural festival.\nCinematic shot of a lone car driving through the desert.\nA child playing with a dog in a sunny garden.\nA cozy cabin in the woods during autumn.\nA painter working on a large canvas in a studio.\nNight sky filled with stars and the Milky Way.\nPortrait of an elderly woman with stories in her eyes.\nA motorbike rally on a winding mountain road.\nNight sky filled with stars and the Milky Way.\nWildlife in action \u2013 a lioness with her cubs.\nTraditional dancers performing at a cultural festival.\nSurfers riding massive waves during a competition.\nAerial shot of tulip fields in full bloom.\nAncient ruins captured under the moonlight.\nA stunning landscape with mountains in the background.",
+    "author": "grace",
+    "uploadedAt": "2025-04-04T22:35:08Z",
+    "tags": ["fashion", "travel", "food", "art", "people", "music"]
+  },
+  {
+    "id": 16,
+    "thumbnailUrl": "https://example.com/thumbnails/image16.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/30012258/pexels-photo-30012258/free-photo-of-vivid-sunset-at-quy-nh-n-beach-with-boat-and-bridge.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 95,
+    "author": "grace",
+    "uploadedAt": "2025-04-18T04:40:18Z",
+    "tags": ["art", "food", "music", "travel"],
+    "prompt": "Traditional dancers performing at a cultural festival.\nModern architectural marvels with sharp angles.\nCinematic shot of a lone car driving through the desert.\nCinematic shot of a lone car driving through the desert.\nBallet dancer practicing alone in a grand hall.\nA close-up of hands crafting handmade jewelry.\nA playful puppy chasing butterflies in a garden.\nDrone view of waves crashing against cliffs.\nA jazz band performing in a dimly-lit club.\nAerial shot of tulip fields in full bloom.\nTraditional dancers performing at a cultural festival.\nA futuristic city skyline at dusk.\nA stunning landscape with mountains in the background.\nTraditional dancers performing at a cultural festival.\nA playful puppy chasing butterflies in a garden.\nA child playing with a dog in a sunny garden.\nA child playing with a dog in a sunny garden."
+  },
+  {
+    "id": 17,
+    "thumbnailUrl": "https://example.com/thumbnails/image17.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31412704/pexels-photo-31412704/free-photo-of-stunning-milky-way-over-namib-desert-rocks.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 630,
+    "author": "bob",
+    "uploadedAt": "2025-04-02T16:54:18Z",
+    "tags": ["travel", "people", "sports", "fashion"],
+    "prompt": "Modern architectural marvels with sharp angles.\nSurfers riding massive waves during a competition.\nA skateboarder performing tricks in an urban park.\nA stunning landscape with mountains in the background.\nSunrise over a serene lake with mist rolling in.\nAncient ruins captured under the moonlight.\nBusy street market with vibrant colors and lively vendors.\nA playful puppy chasing butterflies in a garden.\nCinematic shot of a lone car driving through the desert.\nAerial shot of tulip fields in full bloom.\nAncient ruins captured under the moonlight.\nModern architectural marvels with sharp angles.\nBusy street market with vibrant colors and lively vendors."
+  },
+  {
+    "id": 18,
+    "thumbnailUrl": "https://example.com/thumbnails/video18.jpg",
+    "mediaUrl": "https://example.com/media/video18.mp4",
+    "durationSec": 199,
+    "likes": 699,
+    "prompt": "Ballet dancer practicing alone in a grand hall.\nA child playing with a dog in a sunny garden.\nClose-up of dewdrops on leaves early in the morning.\nA child playing with a dog in a sunny garden.\nTime-lapse of blooming flowers in spring.\nBallet dancer practicing alone in a grand hall.\nA painter working on a large canvas in a studio.\nClose-up of dewdrops on leaves early in the morning.\nBusy street market with vibrant colors and lively vendors.\nDrone view of waves crashing against cliffs.",
+    "author": "grace",
+    "uploadedAt": "2025-04-06T03:27:48Z",
+    "tags": ["people", "food", "fashion", "nature"]
+  },
+  {
+    "id": 19,
+    "thumbnailUrl": "https://example.com/thumbnails/image19.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31579156/pexels-photo-31579156/free-photo-of-snow-covered-hills-in-winter-kars-turkiye.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 12,
+    "prompt": "Time-lapse of blooming flowers in spring.\nA slow-motion shot of a hummingbird hovering near a flower.\nA slow-motion shot of a hummingbird hovering near a flower.\nA playful puppy chasing butterflies in a garden.\nModern architectural marvels with sharp angles.\nWildlife in action \u2013 a lioness with her cubs.\nA cozy cabin in the woods during autumn.\nWildlife in action \u2013 a lioness with her cubs.\nA child playing with a dog in a sunny garden.\nA child playing with a dog in a sunny garden.\nModern architectural marvels with sharp angles.\nBright city lights reflecting off the wet streets after rain.\nA painter working on a large canvas in a studio.\nA motorbike rally on a winding mountain road.\nPortrait of an elderly woman with stories in her eyes.\nA futuristic city skyline at dusk.\nAerial shot of tulip fields in full bloom.",
+    "author": "bob",
+    "uploadedAt": "2025-04-14T23:45:44Z",
+    "tags": ["sports", "nature", "people", "food"]
+  },
+  {
+    "id": 20,
+    "thumbnailUrl": "https://example.com/thumbnails/image20.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31578815/pexels-photo-31578815/free-photo-of-aerial-view-of-snowy-tromso-in-winter.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 897,
+    "prompt": "Traditional dancers performing at a cultural festival.\nA motorbike rally on a winding mountain road.",
+    "author": "frank",
+    "uploadedAt": "2025-04-11T19:07:12Z",
+    "tags": ["technology", "sports", "fashion"]
+  },
+  {
+    "id": 21,
+    "thumbnailUrl": "https://example.com/thumbnails/video21.jpg",
+    "mediaUrl": "https://example.com/media/video21.mp4",
+    "durationSec": 251,
+    "likes": 277,
+    "prompt": "A playful puppy chasing butterflies in a garden.\nAerial shot of tulip fields in full bloom.\nA slow-motion shot of a hummingbird hovering near a flower.\nClose-up of dewdrops on leaves early in the morning.\nSnow gently falling on a quiet countryside.\nA jazz band performing in a dimly-lit club.\nWildlife in action \u2013 a lioness with her cubs.\nAerial shot of tulip fields in full bloom.\nA motorbike rally on a winding mountain road.\nA painter working on a large canvas in a studio.\nA close-up of hands crafting handmade jewelry.\nA slow-motion shot of a hummingbird hovering near a flower.\nA motorbike rally on a winding mountain road.\nWildlife in action \u2013 a lioness with her cubs.\nA futuristic city skyline at dusk.\nTime-lapse of blooming flowers in spring.\nA slow-motion shot of a hummingbird hovering near a flower.\nA cozy cabin in the woods during autumn.\nPeople gathered at a beach bonfire during sunset.\nSunrise over a serene lake with mist rolling in.\nA playful puppy chasing butterflies in a garden.\nA futuristic city skyline at dusk.\nA jazz band performing in a dimly-lit club.\nA child playing with a dog in a sunny garden.\nModern architectural marvels with sharp angles.\nA motorbike rally on a winding mountain road.\nModern architectural marvels with sharp angles.",
+    "author": "alice",
+    "uploadedAt": "2025-04-12T01:45:10Z",
+    "tags": ["people", "sports", "architecture", "art", "fashion", "nature"]
+  },
+  {
+    "id": 22,
+    "thumbnailUrl": "https://example.com/thumbnails/image22.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31624413/pexels-photo-31624413/free-photo-of-elegant-coffee-table-with-flowers-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 569,
+    "author": "frank",
+    "uploadedAt": "2025-04-15T12:16:12Z",
+    "tags": ["fashion", "animals", "technology", "city"],
+    "prompt": "Aerial shot of tulip fields in full bloom.\nModern architectural marvels with sharp angles.\nA slow-motion shot of a hummingbird hovering near a flower.\nBright city lights reflecting off the wet streets after rain.\nSnow gently falling on a quiet countryside.\nBallet dancer practicing alone in a grand hall.\nA jazz band performing in a dimly-lit club.\nAerial shot of tulip fields in full bloom.\nSnow gently falling on a quiet countryside.\nSurfers riding massive waves during a competition.\nBright city lights reflecting off the wet streets after rain.\nBusy street market with vibrant colors and lively vendors.\nClose-up of dewdrops on leaves early in the morning.\nTime-lapse of blooming flowers in spring.\nSunrise over a serene lake with mist rolling in.\nA skateboarder performing tricks in an urban park.\nNight sky filled with stars and the Milky Way.\nClose-up of dewdrops on leaves early in the morning.\nTime-lapse of blooming flowers in spring.\nA child playing with a dog in a sunny garden.\nA slow-motion shot of a hummingbird hovering near a flower.\nA skateboarder performing tricks in an urban park."
+  },
+  {
+    "id": 23,
+    "thumbnailUrl": "https://example.com/thumbnails/image23.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/30287469/pexels-photo-30287469/free-photo-of-wave-tunnel-view-at-chapadmalal-beach-argentina.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 341,
+    "prompt": "Modern architectural marvels with sharp angles.\nA chef preparing a gourmet meal in a professional kitchen.\nA chef preparing a gourmet meal in a professional kitchen.\nA stunning landscape with mountains in the background.\nCinematic shot of a lone car driving through the desert.\nTraditional dancers performing at a cultural festival.\nA close-up of hands crafting handmade jewelry.",
+    "author": "eve",
+    "uploadedAt": "2025-04-09T01:41:40Z",
+    "tags": ["nature", "architecture", "art"]
+  },
+  {
+    "id": 24,
+    "thumbnailUrl": "https://example.com/thumbnails/video24.jpg",
+    "mediaUrl": "https://example.com/media/video24.mp4",
+    "durationSec": 115,
+    "likes": 851,
+    "author": "judy",
+    "uploadedAt": "2025-04-01T03:18:32Z",
+    "tags": ["fashion", "food", "travel", "nature"],
+    "prompt": "A jazz band performing in a dimly-lit club.\nAncient ruins captured under the moonlight.\nA slow-motion shot of a hummingbird hovering near a flower.\nA child playing with a dog in a sunny garden.\nA playful puppy chasing butterflies in a garden.\nA close-up of hands crafting handmade jewelry.\nBallet dancer practicing alone in a grand hall.\nA chef preparing a gourmet meal in a professional kitchen.\nClose-up of dewdrops on leaves early in the morning.\nBright city lights reflecting off the wet streets after rain.\nA stunning landscape with mountains in the background.\nNight sky filled with stars and the Milky Way.\nBusy street market with vibrant colors and lively vendors.\nSunrise over a serene lake with mist rolling in.\nA futuristic city skyline at dusk.\nPortrait of an elderly woman with stories in her eyes.\nTime-lapse of blooming flowers in spring.\nA futuristic city skyline at dusk.\nBallet dancer practicing alone in a grand hall.\nA cozy cabin in the woods during autumn.\nModern architectural marvels with sharp angles.\nPortrait of an elderly woman with stories in her eyes.\nA slow-motion shot of a hummingbird hovering near a flower.\nA motorbike rally on a winding mountain road.\nA cozy cabin in the woods during autumn.\nA cozy cabin in the woods during autumn.\nA stunning landscape with mountains in the background.\nPortrait of an elderly woman with stories in her eyes.\nNight sky filled with stars and the Milky Way.\nA stunning landscape with mountains in the background."
+  },
+  {
+    "id": 25,
+    "thumbnailUrl": "https://example.com/thumbnails/image25.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31559100/pexels-photo-31559100/free-photo-of-floral-pattern-wooden-tags-on-wooden-surface.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 275,
+    "prompt": "Ancient ruins captured under the moonlight.\nA cozy cabin in the woods during autumn.\nSurfers riding massive waves during a competition.\nA child playing with a dog in a sunny garden.\nA slow-motion shot of a hummingbird hovering near a flower.\nA playful puppy chasing butterflies in a garden.\nA child playing with a dog in a sunny garden.\nBusy street market with vibrant colors and lively vendors.\nA futuristic city skyline at dusk.\nSnow gently falling on a quiet countryside.\nSunrise over a serene lake with mist rolling in.",
+    "author": "bob",
+    "uploadedAt": "2025-04-11T13:51:37Z",
+    "tags": ["music", "travel"]
+  },
+  {
+    "id": 26,
+    "thumbnailUrl": "https://example.com/thumbnails/image26.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/13811606/pexels-photo-13811606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 602,
+    "author": "charlie",
+    "uploadedAt": "2025-04-08T04:38:59Z",
+    "tags": ["people", "sports", "food", "nature", "technology"],
+    "prompt": "Time-lapse of blooming flowers in spring.\nA motorbike rally on a winding mountain road.\nA skateboarder performing tricks in an urban park.\nA motorbike rally on a winding mountain road.\nPeople gathered at a beach bonfire during sunset.\nSnow gently falling on a quiet countryside.\nModern architectural marvels with sharp angles.\nSunrise over a serene lake with mist rolling in.\nTime-lapse of blooming flowers in spring.\nA child playing with a dog in a sunny garden.\nSurfers riding massive waves during a competition.\nClose-up of dewdrops on leaves early in the morning.\nBusy street market with vibrant colors and lively vendors.\nDrone view of waves crashing against cliffs.\nSnow gently falling on a quiet countryside.\nA child playing with a dog in a sunny garden.\nDrone view of waves crashing against cliffs.\nA chef preparing a gourmet meal in a professional kitchen.\nA painter working on a large canvas in a studio.\nTraditional dancers performing at a cultural festival.\nTime-lapse of blooming flowers in spring.\nTraditional dancers performing at a cultural festival.\nPeople gathered at a beach bonfire during sunset.\nTraditional dancers performing at a cultural festival.\nWildlife in action \u2013 a lioness with her cubs.\nA child playing with a dog in a sunny garden."
+  },
+  {
+    "id": 27,
+    "thumbnailUrl": "https://example.com/thumbnails/video27.jpg",
+    "mediaUrl": "https://example.com/media/video27.mp4",
+    "durationSec": 63,
+    "likes": 432,
+    "author": "grace",
+    "uploadedAt": "2025-04-15T11:49:39Z",
+    "tags": ["sports", "people"],
+    "prompt": "A slow-motion shot of a hummingbird hovering near a flower.\nA motorbike rally on a winding mountain road.\nA close-up of hands crafting handmade jewelry.\nSurfers riding massive waves during a competition.\nA motorbike rally on a winding mountain road.\nPeople gathered at a beach bonfire during sunset.\nTraditional dancers performing at a cultural festival.\nNight sky filled with stars and the Milky Way.\nClose-up of dewdrops on leaves early in the morning.\nPeople gathered at a beach bonfire during sunset.\nAncient ruins captured under the moonlight.\nCinematic shot of a lone car driving through the desert.\nTime-lapse of blooming flowers in spring.\nPortrait of an elderly woman with stories in her eyes.\nBallet dancer practicing alone in a grand hall.\nA motorbike rally on a winding mountain road.\nPeople gathered at a beach bonfire during sunset.\nA close-up of hands crafting handmade jewelry.\nA playful puppy chasing butterflies in a garden.\nModern architectural marvels with sharp angles.\nDrone view of waves crashing against cliffs.\nA stunning landscape with mountains in the background.\nA jazz band performing in a dimly-lit club.\nA playful puppy chasing butterflies in a garden."
+  },
+  {
+    "id": 28,
+    "thumbnailUrl": "https://example.com/thumbnails/image28.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31627880/pexels-photo-31627880/free-photo-of-aerial-view-of-pamukkale-s-terraced-hot-springs.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 208,
+    "author": "heidi",
+    "uploadedAt": "2025-04-06T14:23:29Z",
+    "tags": ["nature", "city", "architecture", "animals", "food", "technology"],
+    "prompt": "A jazz band performing in a dimly-lit club.\nCinematic shot of a lone car driving through the desert.\nA jazz band performing in a dimly-lit club.\nA skateboarder performing tricks in an urban park.\nSnow gently falling on a quiet countryside.\nA stunning landscape with mountains in the background.\nA motorbike rally on a winding mountain road.\nA slow-motion shot of a hummingbird hovering near a flower.\nA jazz band performing in a dimly-lit club.\nBusy street market with vibrant colors and lively vendors.\nA skateboarder performing tricks in an urban park.\nModern architectural marvels with sharp angles.\nA jazz band performing in a dimly-lit club.\nNight sky filled with stars and the Milky Way.\nA stunning landscape with mountains in the background.\nSnow gently falling on a quiet countryside.\nA futuristic city skyline at dusk.\nA cozy cabin in the woods during autumn.\nNight sky filled with stars and the Milky Way.\nA playful puppy chasing butterflies in a garden.\nClose-up of dewdrops on leaves early in the morning.\nA playful puppy chasing butterflies in a garden.\nAncient ruins captured under the moonlight."
+  },
+  {
+    "id": 29,
+    "thumbnailUrl": "https://example.com/thumbnails/image29.jpg",
+    "mediaUrl": "https://images.pexels.com/photos/31359252/pexels-photo-31359252/free-photo-of-majestic-hoover-dam-at-blue-hour.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "likes": 921,
+    "prompt": "Ballet dancer practicing alone in a grand hall.\nA slow-motion shot of a hummingbird hovering near a flower.\nA futuristic city skyline at dusk.\nA skateboarder performing tricks in an urban park.\nA cozy cabin in the woods during autumn.\nA jazz band performing in a dimly-lit club.\nA close-up of hands crafting handmade jewelry.\nA futuristic city skyline at dusk.\nA close-up of hands crafting handmade jewelry.\nBallet dancer practicing alone in a grand hall.\nA stunning landscape with mountains in the background.\nNight sky filled with stars and the Milky Way.\nWildlife in action \u2013 a lioness with her cubs.\nA jazz band performing in a dimly-lit club.\nBusy street market with vibrant colors and lively vendors.\nModern architectural marvels with sharp angles.\nWildlife in action \u2013 a lioness with her cubs.\nA skateboarder performing tricks in an urban park.\nSnow gently falling on a quiet countryside.\nAncient ruins captured under the moonlight.\nAerial shot of tulip fields in full bloom.\nSurfers riding massive waves during a competition.",
+    "author": "alice",
+    "uploadedAt": "2025-04-03T14:24:37Z",
+    "tags": ["nature", "architecture", "people", "sports"]
+  },
+  {
+    "id": 30,
+    "thumbnailUrl": "https://example.com/thumbnails/video30.jpg",
+    "mediaUrl": "https://example.com/media/video30.mp4",
+    "durationSec": 158,
+    "likes": 668,
+    "prompt": "A jazz band performing in a dimly-lit club.\nTime-lapse of blooming flowers in spring.\nNight sky filled with stars and the Milky Way.\nA cozy cabin in the woods during autumn.\nA cozy cabin in the woods during autumn.\nA skateboarder performing tricks in an urban park.\nA skateboarder performing tricks in an urban park.\nNight sky filled with stars and the Milky Way.\nA slow-motion shot of a hummingbird hovering near a flower.\nAerial shot of tulip fields in full bloom.\nWildlife in action \u2013 a lioness with her cubs.\nA skateboarder performing tricks in an urban park.\nA stunning landscape with mountains in the background.\nCinematic shot of a lone car driving through the desert.\nNight sky filled with stars and the Milky Way.\nA child playing with a dog in a sunny garden.\nWildlife in action \u2013 a lioness with her cubs.\nA painter working on a large canvas in a studio.\nTime-lapse of blooming flowers in spring.\nA painter working on a large canvas in a studio.\nA skateboarder performing tricks in an urban park.\nPeople gathered at a beach bonfire during sunset.\nSunrise over a serene lake with mist rolling in.",
+    "author": "bob",
+    "uploadedAt": "2025-04-18T23:07:47Z",
+    "tags": ["city", "music", "travel", "people", "food"]
+  }
+]
