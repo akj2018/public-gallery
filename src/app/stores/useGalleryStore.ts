@@ -6,14 +6,23 @@ import { DataItem } from "../gallery/types";
 const useGalleryStore = create<GalleryStore>()(
   devtools((set, get) => ({
     galleryItems: [],
+    itemMap: {},
+    clickedItemId: 0,
     likedItems: [],
 
-    addGalleryItems: (newItems: DataItem[]) =>
-      set(
-        (prev) => ({ galleryItems: [...prev.galleryItems, ...newItems] }),
-        undefined,
-        "addGalleryItems"
-      ),
+    setClickedItemId: (id: string) => set({ clickedItemId: id }),
+
+    addGalleryItems: (newItems) =>
+      set((state) => {
+        const updatedMap = { ...state.itemMap };
+        newItems.forEach((item) => {
+          updatedMap[item.id] = item;
+        });
+        return {
+          galleryItems: [...state.galleryItems, ...newItems],
+          itemMap: updatedMap,
+        };
+      }),
 
     updateGalleryItem: (updatedItem: DataItem) =>
       set(
