@@ -1,13 +1,16 @@
+import { useRouter } from "next/navigation";
+
 import { DataItem } from "../types";
 import Media from "./Media";
 import { Heart } from "lucide-react";
 import useGalleryStore from "@/app/stores/useGalleryStore";
+import React from "react";
 
 interface GalleryCardProps {
   data: DataItem;
 }
 
-const GalleryCard = ({ data }: GalleryCardProps) => {
+function GalleryCardInner({ data }: GalleryCardProps) {
   const likeItem = useGalleryStore((state) => state.addLikedItem);
   const unlikeItem = useGalleryStore((state) => state.removeLikedItem);
   const likedItems = useGalleryStore((state) => state.likedItems);
@@ -23,8 +26,16 @@ const GalleryCard = ({ data }: GalleryCardProps) => {
     }
   };
 
+  const router = useRouter();
+  const clickHandler = () => {
+    router.push(`/gallery/${data.id}`);
+  };
+
   return (
-    <div className=" rounded-[2px] overflow-hidden relative group cursor-pointer">
+    <div
+      className=" rounded-[2px] overflow-hidden relative group cursor-pointer"
+      onClick={clickHandler}
+    >
       {/* Text Overlay */}
       <div
         className="absolute bottom-0 z-10 p-5 w-full text-white  font-bold transition-all duration-200 ease-in-out
@@ -54,6 +65,6 @@ const GalleryCard = ({ data }: GalleryCardProps) => {
       />
     </div>
   );
-};
+}
 
-export default GalleryCard;
+export const GalleryCard = React.memo(GalleryCardInner);
