@@ -1,23 +1,40 @@
 "use client";
 
-import GalleryCard from "./GalleryCard";
+import { GalleryCard } from "./GalleryCard";
 import { DataItem } from "../types";
 import useColumnCount from "@/app/hooks/useColumnCount";
 import useInfiniteGallery from "@/app/hooks/useInfiniteGallery";
 import useGalleryStore from "@/app/stores/useGalleryStore";
+import { useMemo } from "react";
 
 const Gallery = () => {
   const cols = useColumnCount();
   const { loaderRef, loading, hasMore } = useInfiniteGallery();
   const items = useGalleryStore((state) => state.galleryItems); // trigger re-render when items change
 
-  // initialize empty arrays for each column
-  const columns: DataItem[][] = Array.from({ length: cols }, () => []);
+  const columns = useMemo(() => {
+    // 1) Make a sorted copy
+    const sortedItems = [...items].sort((a, b) => {
+      // sort by likes descending
+      if (b.likes !== a.likes) {
+        return b.likes - a.likes;
+      }
+      // if likes equal, sort by uploadedAt descending (newest first)
+      return (
+        new Date(b.uploadedAt).getTime() - new Date(a.uploadedAt).getTime()
+      );
+    });
 
-  // distribute items in round‑robin
-  items.forEach((item, idx) => {
-    columns[idx % cols].push(item);
-  });
+    // initialize empty arrays for each column
+    const colsArr: DataItem[][] = Array.from({ length: cols }, () => []);
+
+    // distribute items in round‑robin
+    sortedItems.forEach((item, i) => {
+      if (cols === 0) return; // avoid division by zero
+      colsArr[i % cols].push(item);
+    });
+    return colsArr;
+  }, [items, cols]);
 
   return (
     <div className="h-screen rounded-3xl">
