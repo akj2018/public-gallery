@@ -6,7 +6,7 @@ type GalleryResponse = {
 };
 
 const getNextGalleryItems = async (index = 0): Promise<GalleryResponse> => {
-  const url = `http://localhost:5000/api/gallery/next/${index}`;
+  const url = `https://mirror-yielding-science.glitch.me/api/gallery/next/${index}`;
 
   const response = await fetch(url, {
     method: "GET",

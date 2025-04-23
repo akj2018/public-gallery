@@ -5,7 +5,7 @@ const getGalleryItem = async (id: string): Promise<DataItem> => {
     throw new Error("ID is required to fetch gallery item");
   }
 
-  const url = `http://localhost:5000/api/gallery/${id}`;
+  const url = `https://mirror-yielding-science.glitch.me/api/gallery/${id}`;
 
   const response = await fetch(url, {
     method: "GET",
