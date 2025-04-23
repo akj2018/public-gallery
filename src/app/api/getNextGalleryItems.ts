@@ -16,7 +16,11 @@ const getNextGalleryItems = async (index = 0): Promise<GalleryResponse> => {
   });
 
   if (!response.ok) {
-    throw new Error("Failed to fetch gallery data");
+    if (response.status === 404) {
+      throw new Error("404: Item not found");
+    }
+
+    throw new Error(`Server error: ${response.status}`);
   }
 
   return response.json();
