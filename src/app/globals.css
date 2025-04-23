@@ -26,3 +26,27 @@
     --color-secondary: #fcd34d;
   }
 }
+
+/* Custom scrollbar styles */
+.scrollbar-custom::-webkit-scrollbar {
+  width: 5px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: #0f172a; /* black track */
+  border-radius: 9999px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #888; /* gray thumb */
+  border-radius: 9999px;
+}
+
+/* Hide scrollbar but keep scroll behavior */
+.hide-scrollbar {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
